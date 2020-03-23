@@ -9,7 +9,8 @@
 
 ## Project Files
 - Boston Listing Price Analysis.ipynb: main project file in Jupyter notebook
-- listings.csv: all data used in analysis
+- listings.csv: all data used in analysis, from (https://www.kaggle.com/airbnb/boston)
+
 
 ## Summary of Results
 
